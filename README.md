@@ -1,73 +1,75 @@
-# 👨‍💻 [Nolak Kapali] - QA Automation Engineer
-
 ## 🚀 About Me  
-Hello! I'm **[Nolak Kapali]**, a passionate **Bug Finder** looking for a **QA Automation Engineer** position with expertise in **Playwright, Selenium, and API testing**. I specialize in **test automation frameworks**,testing wordpress plugins **ensuring software quality** through end-to-end testing.
+Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Automation Engineer** position with expertise in **Playwright, Selenium, and API testing**. I specialize in **test automation frameworks**, testing wordpress plugins **ensuring software quality** through out end-to-end testing.
 
 ---
 
 ## 🛠️ Skills & Tools  
-### **Automation Frameworks**  
-- ✅ Playwright    
-- ✅ Selenium  
+### **Automation Frameworks**   <br>
+- ✅ Playwright    <br> 
+- ✅ Selenium   <br>
 
-### **API Testing**  
-- ✅ Postman  
-- ✅ Playwright API Testing  
+### **API Testing**   <br>
+- ✅ Postman   <br>
+- ✅ Playwright API Testing   <br>
 
-### **Programming Languages**  
-- ✅ JavaScript  
-- ✅ Java
-- ✅ Python  
+### **Programming Languages**   <br> 
+- ✅ JavaScript   <br>
+- ✅ Java  <br>
+- ✅ Python   <br>
 
-### **Version Control**  
-- ✅ Git & GitHub  
+### **Version Control**   <br>
+- ✅ Git & GitHub   <br>
   
-### **Project and Test Management & Documentation**  
-- ✅ Jira  
-- ✅ ClickUp  
-- ✅ TestRail
+### **Project and Test Management & Documentation**   <br>
+- ✅ Jira   <br>
+- ✅ ClickUp   <br>
+- ✅ TestRail  <br>
 ---
+
 ## 📂 Featured Projects
-### 🚀 **2️⃣ WordPress Plugin Testing with Playwright**  
-🔹 **Description**: Automated testing suite for **WooCommerce & WordPress plugins**.  
-🔹 **Tech Stack**: Playwright, Javascript, Allure Reports  
-🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Woocommerce-plugin-Test-Playwright-Javascript)  
-🔹 **Key Features**:  
-✅ Automated Login,Register,Product Shop,Product Display,Cart,Checkout Tests  
-✅ API Testing for WooCommerce REST API  
-✅ Page Object Model (POM) Implementation   
-✅ API & UI Test Integration  
+### 🚀 **1️⃣ WordPress Plugin Testing with Playwright**   <br>
+🔹 **Description**: Automated testing suite for **WooCommerce & WordPress plugins**.   <br>
+🔹 **Tech Stack**: Playwright, Javascript, Allure Reports   <br>
+🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Woocommerce-plugin-Test-Playwright-Javascript)   <br>
+🔹 **Key Features**:   <br>
+✅ Automated Login,Register,Product Shop,Product Display,Cart,Checkout Tests   <br>
+✅ API Testing for WooCommerce REST API   <br>
+✅ Page Object Model (POM) Implementation   <br>✅ API & UI Test Integration   <br>
+
 ---
 
-### 🚀 **1️⃣ Selenium E2E Automation**  
+### 🚀 **2️⃣ Selenium E2E Automation**  
 🔹 **Description**: A fully automated **end-to-end testing framework** for SwagLabs website using Selenium WebDriver.  
-🔹 **Tech Stack**: Selenium Webdriver,Java,TestNG
-🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Selenium)  
-🔹 **Key Features**: 
-✅ Created Automation Test Script from Scratch
-✅ Use TestNG for annotation 
-✅ Functional, Full Regression Test, End to End Test
----
-
-### 🚀 **3️⃣ API Testing Framework**  
-🔹 **Description**: REST API testing project using **Postman & Spotify Web API**.  
-🔹 **Tech Stack**: Spotify Web API, Postman, Newman
-🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/RESTful-API-Testing-Projects)  
-🔹 **Key Features**:  
-✅ API Request Validations (GET, POST, PUT, PATCH, DELETE)  
-✅ Javascript Test Assertions
-✅ JSON Schema Validation  
-✅ Newman Reports  
+🔹 **Tech Stack**: Selenium Webdriver,Java,TestNG  <br>
+🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Selenium)   <br>
+🔹 **Key Features**:  <br>
+✅ Created Automation Test Script from Scratch  <br>
+✅ Use TestNG for annotation  <br>
+✅ Functional, Full Regression Test, End to End Test <br>
 
 ---
-### 🚀 **3️⃣ Manual Testing Agile Project**  
-🔹 **Description**: Functiona testing project using **Agile based model Scrum**.  
-🔹 **Tech Stack**: Jira, TestRail
-🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Bug-Resistance-Agile-Project)  
+
+### 🚀 **3️⃣ API Testing Postman**  
+🔹 **Description**: REST API testing project using **Postman & Spotify Web API**.   <br>
+🔹 **Tech Stack**: Spotify Web API, Postman, Newman  <br>
+🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/RESTful-API-Testing-Projects)   <br>
 🔹 **Key Features**:  
-✅ Build Scrum Based Project in Jira  
-✅ Managed Test Cases in TestRail
-✅ Perfrom Functional Test Manually 
+✅ API Request Validations (GET, POST, PUT, PATCH, DELETE)  <br>
+✅ Javascript Test Assertions  <br>
+✅ JSON Schema Validation  <br> 
+✅ Newman Reports   <br>
+
+---
+
+### 🚀 **4️⃣ Manual Testing Agile Project**   <br>
+🔹 **Description**: Functional testing project using **Agile based Scrum model**.   <br>
+🔹 **Tech Stack**: Jira, TestRail  <br>
+🔹 **📌 Repo**: [🔗 Link to Repository](#https://github.com/nolakkapali/Bug-Resistance-Agile-Project)   <br>
+🔹 **Key Features**:   <br>
+✅ Build Scrum Based Project in Jira   <br>
+✅ Managed Test Cases in TestRail  <br>
+✅ Perfrom Functional Test Manually  <br>
+
 ---
 ### **Test Documentation**  
 - ✅ Test Plan
@@ -82,9 +84,5 @@ Hello! I'm **[Nolak Kapali]**, a passionate **Bug Finder** looking for a **QA Au
 
 ## 📞 Connect with Me  
 📧 Email: [nolak.kapali@gmail.com]  
-🔗 LinkedIn: [[linkedin-url](https://www.linkedin.com/in/nolakkapali/)]  
+🔗 LinkedIn: [[nolakkapali-linkedin](https://www.linkedin.com/in/nolakkapali/)]  
 
-
----
-
-🚀 **Happy Testing!** 🎯  
