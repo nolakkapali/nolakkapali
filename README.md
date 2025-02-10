@@ -20,12 +20,22 @@ Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Engi
 ### **Version Control**   <br>
 - ✅ Git & GitHub   <br>
   
-### **Project and Test Management & Documentation**   <br>
+### **Project and Test Management**   <br>
 - ✅ Jira   <br>
 - ✅ ClickUp   <br>
 - ✅ TestRail  <br>
----
 
+### **Test Documentation**  
+- ✅ Test Plan
+- ✅ Test Scenarios  
+- ✅ Test Cases
+- ✅ Requirment Traceability Matrix
+- ✅ Test Data
+- ✅ Defect Report
+- ✅ Test Summary Report
+
+---
+  
 ## 📂 Featured Projects
 ### 🚀 **1️⃣ WordPress Plugin Testing with Playwright**   <br>
 🔹 **Description**: Automated testing suite for **WooCommerce & WordPress plugins**.   <br>
@@ -69,16 +79,6 @@ Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Engi
 ✅ Build Scrum Based Project in Jira   <br>
 ✅ Managed Test Cases in TestRail  <br>
 ✅ Perfrom Functional Test Manually  <br>
-
----
-### **Test Documentation**  
-- ✅ Test Plan
-- ✅ Test Scenarios  
-- ✅ Test Cases
-- ✅ Requirment Traceability Matrix
-- ✅ Test Data
-- ✅ Defect Report
-- ✅ Test Summary Report
 
 ---
 
