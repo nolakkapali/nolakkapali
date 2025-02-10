@@ -1,5 +1,5 @@
 ## 🚀 About Me  
-Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Automation Engineer** position with expertise in **Playwright, Selenium, and API testing**. I specialize in **test automation frameworks**, testing wordpress plugins **ensuring software quality** through out end-to-end testing.
+Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Engineer** position with expertise in **Playwright, Selenium, and API testing**. I specialize in **test automation frameworks**, testing wordpress plugins **ensuring software quality** through out end-to-end testing.
 
 ---
 
