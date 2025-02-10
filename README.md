@@ -83,6 +83,6 @@ Hello! I'm **Nolak Kapali**, a passionate **Bug Finder** looking for a **QA Engi
 ---
 
 ## 📞 Connect with Me  
-📧 Email: [nolak.kapali@gmail.com]  
-🔗 LinkedIn: [[nolakkapali-linkedin](https://www.linkedin.com/in/nolakkapali/)]  
+📧 Email: nolak.kapali@gmail.com  
+🔗 LinkedIn: [Nolak Kapali](https://www.linkedin.com/in/nolakkapali/)  
 
